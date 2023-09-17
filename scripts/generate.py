@@ -5,8 +5,10 @@ for member_yaml_path in glob.glob('./members/*.yaml'):
     with open(member_yaml_path) as file:
         member_data = yaml.safe_load(file)
         members.append(member_data)
-
-shutil.rmtree('dist')
+try:
+  shutil.rmtree('dist')
+except FileNotFoundError:
+    pass
 os.mkdir('dist')
 
 with open('dist/members.json', 'w') as file:
