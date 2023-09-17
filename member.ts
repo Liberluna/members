@@ -53,4 +53,8 @@ export interface Member {
     ja?: string
     en?: string
   }
+  /**
+   * アバターのURL。
+   */
+  avatar: `data:${string}` | `https://${string}`
 }
