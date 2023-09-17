@@ -26,7 +26,7 @@ with open('dist/members.ts', 'w') as file:
     file.write(typescript_code)
 
 python_code = f"""
-members = {json.dumps(members, indent=4)}
+members = {json.dumps(members, indent=4, ensure_ascii=False)}
 """.strip()
 with open('dist/members.py', 'w') as file:
     file.write(python_code)
