@@ -54,8 +54,8 @@ export interface Member {
    * 自己紹介、メモ
    */
   profile: {
-    ja?: string
-    en?: string
+    ja: string
+    en: string
   }
   /**
    * アバターのURL。
