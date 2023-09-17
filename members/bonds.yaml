@@ -1,0 +1,15 @@
+names:
+  ja: ぼんず
+  en: Bonds
+post:
+  isMember: true
+  isModerator: true
+  isLeader: false
+social:
+  github: bond417
+  x: Bonds_Hacker
+  matrix: '@/bonds/:matrix.org'
+profile:
+  ja: 'ぼんずです。\"Liberluna\"の名前の考案者です。副官やってます。名前の通り絆を大切にしています。よろしくお願いします。'
+  en: "I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we value ties. thank you."
+avatar: 'https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/bonds.jpg'
