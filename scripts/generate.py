@@ -26,6 +26,11 @@ with open('dist/members.ts', 'w') as file:
     file.write(typescript_code)
 
 python_code = f"""
+# For Raw JSON
+true = True
+false = False
+
+# Define Data from JSON
 members = {json.dumps(members, indent=4, ensure_ascii=False)}
 """.strip()
 with open('dist/members.py', 'w') as file:
