@@ -45,6 +45,10 @@ export interface Member {
      * `@example:example.com`
      */
     matrix?: string
+    /**
+     * 自分のサイト
+     */
+    website?: string 
   }
   /**
    * 自己紹介、メモ
