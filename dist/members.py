@@ -7,7 +7,7 @@ members = [
         "post": {
             "isMember": true,
             "isModerator": true,
-            "isLeader": true
+            "isLeader": false
         },
         "social": {
             "github": "nakasyou",
