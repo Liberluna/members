@@ -28,3 +28,5 @@ with open('dist/members.ts', 'w') as file:
 python_code = f"""
 members = {json.dumps(members, indent=4)}
 """.strip()
+with open('dist/members.py', 'w') as file:
+    file.write(python_code)
