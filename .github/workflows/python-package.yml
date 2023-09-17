@@ -1,0 +1,26 @@
+name: Python package
+
+on:
+  push:
+    branches: [ "main" ]
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: 3.x
+      - name: Generate files
+        run: python scripts/generate.py
+      - name: Setting Git
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      - name: Sync
+        run: |
+          git add .
+          git commit -m 'Sync by GitHub Actions'
+          git push
