@@ -1,3 +1,8 @@
+# For Raw JSON
+true = True
+false = False
+
+# Define Data from JSON
 members = [
     {
         "names": {
