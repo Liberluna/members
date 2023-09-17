@@ -1,0 +1,16 @@
+names:
+  ja: nakasyou
+  en: nakasyou
+post:
+  isMember: true
+  isModerator: true
+  isLeader: true
+social:
+  github: nakasyou
+  x: nakasyou0
+  scratch: nakasyou1103
+  matrix: '@nakasyou:matrix.org'
+profile:
+  ja: '13 y/o 中2男子。'
+  en: "I'm nakasyou. second year of junior high school"
+avatar: 'https://github.com/nakasyou.png'
