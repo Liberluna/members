@@ -149,6 +149,25 @@ members = [
     },
     {
         "names": {
+            "ja": "ハシシ",
+            "en": "Hashishi"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "x": "ipshtkleegetolb73"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/ipshtkleegetolb73.png"
+    },
+    {
+        "names": {
             "ja": "fumi",
             "en": "fumi"
         },
