@@ -50,8 +50,8 @@ members = [
             "en": "omochi"
         },
         "post": {
-            "isMember": true,
-            "isModerator": true,
+            "isMember": false,
+            "isModerator": false,
             "isLeader": false
         },
         "social": {
