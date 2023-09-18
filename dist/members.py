@@ -85,6 +85,25 @@ members = [
     },
     {
         "names": {
+            "ja": "巧太",
+            "en": "Kouta"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "koutamanto"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/koutamanto.png"
+    },
+    {
+        "names": {
             "ja": "nakasyou",
             "en": "nakasyou"
         },
