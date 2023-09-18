@@ -88,6 +88,25 @@ members = [
     },
     {
         "names": {
+            "ja": "黒子",
+            "en": "Kuroko"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "matrix": "@kurokopi:matrix.org"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": ""
+    },
+    {
+        "names": {
             "ja": "スカイラーク",
             "en": "Skylark"
         },
