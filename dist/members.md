@@ -35,10 +35,10 @@ en:
 Bug Hunter
 ```
 
-### ActiveTK
+### ActiveTK.
 #### 名前情報
-- `ja`: ActiveTK
-- `en`: ActiveTK
+- `ja`: ActiveTK.
+- `en`: ActiveTK.
 #### ロール情報
 - サブメンバー
 #### アバター情報

@@ -47,8 +47,8 @@ members = [
     },
     {
         "names": {
-            "ja": "ActiveTK",
-            "en": "ActiveTK"
+            "ja": "ActiveTK.",
+            "en": "ActiveTK."
         },
         "post": {
             "isMember": false,
