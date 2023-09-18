@@ -2,8 +2,8 @@ names:
   ja: おもち
   en: omochi
 post:
-  isMember: true
-  isModerator: true
+  isMember: false
+  isModerator: false
   isLeader: false
 social:
   github: hiro1234omochi
