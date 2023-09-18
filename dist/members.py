@@ -228,6 +228,23 @@ members = [
     },
     {
         "names": {
+            "ja": "素敵",
+            "en": "Suteki"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": null,
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": ""
+    },
+    {
+        "names": {
             "ja": "fumi",
             "en": "fumi"
         },
