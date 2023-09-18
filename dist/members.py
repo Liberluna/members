@@ -157,14 +157,14 @@ members = [
             "isLeader": false
         },
         "social": {
-            "github": "Mambo-q",
+            "github": "mbo5",
             "x": "vje_"
         },
         "profile": {
             "ja": "None",
             "en": "None"
         },
-        "avatar": "https://github.com/Mambo-q.png"
+        "avatar": "https://github.com/mbo5.png"
     },
     {
         "names": {

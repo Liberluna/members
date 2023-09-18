@@ -190,9 +190,9 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-https://github.com/Mambo-q.png 
+https://github.com/mbo5.png 
 
-<img src="https://github.com/Mambo-q.png" width="64" height="64" />
+<img src="https://github.com/mbo5.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -205,7 +205,7 @@ None
 ```
 
 #### Social
-- GitHub: [Mambo-q](https://github.com/Mambo-q)
+- GitHub: [mbo5](https://github.com/mbo5)
 - X(Twitter): [@vje_](https://x.com/vje_)
 
 ### ぼんず
