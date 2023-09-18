@@ -6,7 +6,7 @@
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/Futaba411.png 
 
 <img src="https://github.com/Futaba411.png" width="64" height="64" />
 
@@ -31,7 +31,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/EdamAme-x.png 
 
 <img src="https://github.com/EdamAme-x.png" width="64" height="64" />
 
@@ -56,7 +56,7 @@ Bug Hunter
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/activetk.png 
 
 <img src="https://github.com/activetk.png" width="64" height="64" />
 
@@ -83,7 +83,7 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
-
+ 
 
 <img src="" width="64" height="64" />
 
@@ -107,7 +107,7 @@ IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC,
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true 
 
 <img src="https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true" width="64" height="64" />
 
@@ -135,7 +135,7 @@ My name is omochi.An ordinary junior high school student who wants to acquire ha
 - リーダー
 - モデレーター
 #### アバター情報
-
+https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/pochi.png 
 
 <img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/pochi.png" width="64" height="64" />
 
@@ -165,7 +165,7 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+ 
 
 <img src="" width="64" height="64" />
 
@@ -189,7 +189,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/Mambo-q.png 
 
 <img src="https://github.com/Mambo-q.png" width="64" height="64" />
 
@@ -215,7 +215,7 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
-
+https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/bonds.jpg 
 
 <img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/bonds.jpg" width="64" height="64" />
 
@@ -241,7 +241,7 @@ I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/movenap.png 
 
 <img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/movenap.png" width="64" height="64" />
 
@@ -267,7 +267,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg 
 
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg" width="64" height="64" />
 
@@ -290,7 +290,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/koutamanto.png 
 
 <img src="https://github.com/koutamanto.png" width="64" height="64" />
 
@@ -315,7 +315,7 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
-
+https://github.com/nakasyou.png 
 
 <img src="https://github.com/nakasyou.png" width="64" height="64" />
 
@@ -342,7 +342,7 @@ I'm nakasyou. second year of junior high school
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/ipshtkleegetolb73.png 
 
 <img src="https://github.com/ipshtkleegetolb73.png" width="64" height="64" />
 
@@ -366,7 +366,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/endermite0314.png 
 
 <img src="https://github.com/endermite0314.png" width="64" height="64" />
 
@@ -392,7 +392,7 @@ I enjoy dynamic analysis of malware (including jokes) and developing web applica
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/Def4Root.png 
 
 <img src="https://github.com/Def4Root.png" width="64" height="64" />
 
@@ -419,7 +419,7 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
-
+https://github.com/mama1928.png 
 
 <img src="https://github.com/mama1928.png" width="64" height="64" />
 
@@ -444,7 +444,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+ 
 
 <img src="" width="64" height="64" />
 
@@ -467,7 +467,7 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
-
+https://github.com/kisia0916.png 
 
 <img src="https://github.com/kisia0916.png" width="64" height="64" />
 
