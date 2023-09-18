@@ -30,7 +30,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     ```
     { member_data['profile']['en'] }
     ```
-    """[1:-1])
+    """[1:-1], 4)
     return result + '\n'
 def generate_markdown(data) -> str:
     result: str = ''
