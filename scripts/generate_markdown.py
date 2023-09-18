@@ -1,18 +1,26 @@
+def remove_start_by_line(string, n: int) -> str:
+    return '\n'.join(map(lambda line: line[n:], string.split('\n')))
 def get_one_member_markdown_by_member_data(member_data) -> str:
     print(member_data, member_data['post']['isMember'])
     new_line = '\n'
-    result = f"""
-    ### {member_data['names']['ja']}
-    #### 名前情報
-    - `ja`: {member_data['names']['ja']}
-    - `en`: {member_data['names']['en']}
-    #### ロール情報
-    - { '' if {member_data['post']['isMember']} else 'サブ' }メンバー
-    { ('- リーダー' + new_line) if member_data['post']['isLeader'] }{ ('- モデレーター' + new_line) if member_data['post']['isModerator'] }
-    #### アバター情報
+    result = ""
+    result += "### {member_data['names']['ja']}\n"
     
-    <img src="{member_data['avatar']}" width="64" height="64" />
+    result += '#### 名前情報\n'
+    result += '- `ja`: ' + member_data['names']['ja'] + '\n'
+    result += '- `en`: ' + member_data['names']['en'] + '\n'
 
+    result += '#### ロール情報\n'
+    result += f'- { '' if {member_data['post']['isMember']} else 'サブ' }メンバー\n'
+    if member_data['post']['isLeader']:
+        result += '- リーダー\n'
+    if member_data['post']['isModerator']:
+        result += '- モデレーター\n'
+    
+    result += '#### アバター情報\n'
+    result += f'<img src="{member_data['avatar']}" width="64" height="64" />' + '\n'
+
+    result += remove_start_by_line(f"""
     #### 自己紹介
     ja:
     ```
@@ -22,10 +30,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     ```
     { member_data['profile']['en'] }
     ```
-    #### ソーシャル
-    - 
-    """
-    result = '\n'.join(map(lambda line: line[3:], result[1:-1].split('\n')))
+    """[1:-1])
     return result + '\n'
 def generate_markdown(data) -> str:
     result: str = ''
