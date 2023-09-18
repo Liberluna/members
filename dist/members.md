@@ -1,7 +1,7 @@
 # Liberluna Members Markdown ver.
 ⚠️注意 このファイルは自動的に生成されるので、編集しないでください。情報を訂正したい場合は、[members](../members)を編集してください。
 
-### ぽち
+## リーダー### ぽち
 #### 名前情報
 - `ja`: ぽち
 - `en`: pochi
@@ -34,7 +34,7 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 - X(Twitter): [@Pochi_Liberluna](https://x.com/Pochi_Liberluna)
 
 
-### サミット
+## モデレーター### サミット
 #### 名前情報
 - `ja`: サミット
 - `en`: sum1t
@@ -59,7 +59,7 @@ IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC,
 #### Social
 - Matrix: [@sum1t:matrix.org](https://matrix.to/#/@sum1t:matrix.org)
 
-## モデレーター
+
 ### ぼんず
 #### 名前情報
 - `ja`: ぼんず
@@ -87,7 +87,7 @@ I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we
 - GitHub: [bond417](https://github.com/bond417)
 - X(Twitter): [@Bonds_Hacker](https://x.com/Bonds_Hacker)
 
-## モデレーター
+
 ### nakasyou
 #### 名前情報
 - `ja`: nakasyou
@@ -116,7 +116,7 @@ I'm nakasyou. second year of junior high school
 - X(Twitter): [@nakasyou0](https://x.com/nakasyou0)
 - Scratch: [nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 
-## モデレーター
+
 ### Rootkit
 #### 名前情報
 - `ja`: Rootkit
@@ -144,8 +144,8 @@ None
 - GitHub: [mama1928](https://github.com/mama1928)
 
 
-
-### 双葉
+## メンバー
+## サブメンバー### 双葉
 #### 名前情報
 - `ja`: 双葉
 - `en`: Futaba
@@ -170,7 +170,7 @@ None
 - Matrix: [@futaba8:matrix.org](https://matrix.to/#/@futaba8:matrix.org)
 - GitHub: [Futaba411](https://github.com/Futaba411)
 
-## サブメンバー
+
 ### Ame
 #### 名前情報
 - `ja`: Ame
@@ -196,7 +196,7 @@ Bug Hunter
 - Matrix: [amedx:matrix.org](https://matrix.to/#/amedx:matrix.org)
 - GitHub: [EdamAme-x](https://github.com/EdamAme-x)
 
-## サブメンバー
+
 ### ActiveTK.
 #### 名前情報
 - `ja`: ActiveTK.
@@ -223,7 +223,7 @@ None
 - GitHub: [activetk](https://github.com/activetk)
 - X(Twitter): [@activetk5929](https://x.com/activetk5929)
 
-## サブメンバー
+
 ### おもち
 #### 名前情報
 - `ja`: おもち
@@ -250,7 +250,7 @@ My name is omochi.An ordinary junior high school student who wants to acquire ha
 - GitHub: [hiro1234omochi](https://github.com/hiro1234omochi)
 - X(Twitter): [@hiro_omochi1234](https://x.com/hiro_omochi1234)
 
-## サブメンバー
+
 ### 黒子
 #### 名前情報
 - `ja`: 黒子
@@ -275,7 +275,7 @@ None
 #### Social
 - Matrix: [@kurokopi:matrix.org](https://matrix.to/#/@kurokopi:matrix.org)
 
-## サブメンバー
+
 ### スカイラーク
 #### 名前情報
 - `ja`: スカイラーク
@@ -301,7 +301,7 @@ None
 - GitHub: [mbo5](https://github.com/mbo5)
 - X(Twitter): [@vje_](https://x.com/vje_)
 
-## サブメンバー
+
 ### movenap
 #### 名前情報
 - `ja`: movenap
@@ -328,7 +328,7 @@ None
 - GitHub: [movenap](https://github.com/movenap)
 - Scratch: [move028](https://scratch.mit.edu/users/move028)
 
-## サブメンバー
+
 ### ミゾレ
 #### 名前情報
 - `ja`: ミゾレ
@@ -352,7 +352,7 @@ None
 
 #### Social
 
-## サブメンバー
+
 ### 巧太
 #### 名前情報
 - `ja`: 巧太
@@ -377,7 +377,7 @@ None
 #### Social
 - GitHub: [koutamanto](https://github.com/koutamanto)
 
-## サブメンバー
+
 ### ハシシ
 #### 名前情報
 - `ja`: ハシシ
@@ -402,7 +402,7 @@ None
 #### Social
 - X(Twitter): [@ipshtkleegetolb73](https://x.com/ipshtkleegetolb73)
 
-## サブメンバー
+
 ### MD5
 #### 名前情報
 - `ja`: MD5
@@ -429,7 +429,7 @@ I enjoy dynamic analysis of malware (including jokes) and developing web applica
 - GitHub: [endermite0314](https://github.com/endermite0314)
 - X(Twitter): [@lockeddoor0314](https://x.com/lockeddoor0314)
 
-## サブメンバー
+
 ### Def4Root
 #### 名前情報
 - `ja`: Def4Root
@@ -456,7 +456,7 @@ None
 - GitHub: [Def4Root](https://github.com/Def4Root)
 - X(Twitter): [@Def4Root](https://x.com/Def4Root)
 
-## サブメンバー
+
 ### 素敵
 #### 名前情報
 - `ja`: 素敵
@@ -480,7 +480,7 @@ None
 
 #### Social
 
-## サブメンバー
+
 ### fumi
 #### 名前情報
 - `ja`: fumi
