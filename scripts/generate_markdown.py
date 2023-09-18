@@ -48,6 +48,25 @@ def generate_markdown(data) -> str:
     result: str = ''
     result += '# Liberluna Members Markdown ver.\n'
     result += '⚠️注意 このファイルは自動的に生成されるので、編集しないでください。情報を訂正したい場合は、[members](../members)を編集してください。\n'
+
+    leaders = []
+    moderators = []
+    members = []
+    submembers = []
+    
     for member_data in data:
-        result += get_one_member_markdown_by_member_data(member_data)
+        one_member_markdown = get_one_member_markdown_by_member_data(member_data)
+        if member_data['post']['isLeader']:
+            leaders.append(one_member_markdown)
+        elif member_data['post']['isModerator']:
+            moderators.append(one_member_markdown)
+        elif member_data['post']['isMember']:
+            members.append(one_member_markdown)
+        else:
+            submembers.append(one_member_markdown)
+    result += '\n' + '## リーダー\n'.join(leaders)
+    result += '\n' + '## モデレーター\n'.join(moderator)
+    result += '\n' + '## メンバー\n'.join(members)
+    result += '\n' + '## サブメンバー\n'.join(submembers)
+    
     return result
