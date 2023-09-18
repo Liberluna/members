@@ -47,7 +47,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
 def generate_markdown(data) -> str:
     result: str = ''
     result += '# Liberluna Members Markdown ver.\n'
-    result += '⚠️注意 このファイルは自動的に生成されるので、編集しないでください。情報を訂正したい場合は、[members](../members)を編集してください。'
+    result += '⚠️注意 このファイルは自動的に生成されるので、編集しないでください。情報を訂正したい場合は、[members](../members)を編集してください。\n'
     for member_data in data:
         result += get_one_member_markdown_by_member_data(member_data)
     return result
