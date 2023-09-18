@@ -35,7 +35,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
 
     result += '#### Social\n'
     if 'github' in member_data['social']:
-        result += f'- GitHub: [{member_data['social']['github']}](https://github.com/{member_data['social']['github']}\n'
+        result += '- GitHub: [{0}](https://github.com/{0})\n'.format(member_data['social']['github'])
     
     return result + '\n'
 def generate_markdown(data) -> str:
