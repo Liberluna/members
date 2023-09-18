@@ -1,5 +1,5 @@
 # Liberluna Members Markdown ver.
-### {member_data['names']['ja']}
+### 双葉
 #### 名前情報
 - `ja`: 双葉
 - `en`: Futaba
@@ -17,7 +17,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### Ame
 #### 名前情報
 - `ja`: Ame
 - `en`: Amex
@@ -35,7 +35,7 @@ en:
 Bug Hunter
 ```
 
-### {member_data['names']['ja']}
+### ActiveTK
 #### 名前情報
 - `ja`: ActiveTK
 - `en`: ActiveTK
@@ -53,7 +53,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### サミット
 #### 名前情報
 - `ja`: サミット
 - `en`: sum1t
@@ -72,7 +72,7 @@ en:
 IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC, a FlashPaPa CD and a Solid State Survivor record.
 ```
 
-### {member_data['names']['ja']}
+### おもち
 #### 名前情報
 - `ja`: おもち
 - `en`: omochi
@@ -90,7 +90,7 @@ en:
 My name is omochi.An ordinary junior high school student who wants to acquire hacking ability.I am using the icon of \"irasutoya\".
 ```
 
-### {member_data['names']['ja']}
+### ぽち
 #### 名前情報
 - `ja`: ぽち
 - `en`: pochi
@@ -114,7 +114,7 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 
 ```
 
-### {member_data['names']['ja']}
+### 黒子
 #### 名前情報
 - `ja`: 黒子
 - `en`: Kuroko
@@ -132,7 +132,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### スカイラーク
 #### 名前情報
 - `ja`: スカイラーク
 - `en`: Skylark
@@ -150,7 +150,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### ぼんず
 #### 名前情報
 - `ja`: ぼんず
 - `en`: Bonds
@@ -169,7 +169,7 @@ en:
 I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we value ties. thank you.
 ```
 
-### {member_data['names']['ja']}
+### movenap
 #### 名前情報
 - `ja`: movenap
 - `en`: movenap
@@ -187,7 +187,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### ミゾレ
 #### 名前情報
 - `ja`: ミゾレ
 - `en`: Mizore
@@ -205,7 +205,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### 巧太
 #### 名前情報
 - `ja`: 巧太
 - `en`: Kouta
@@ -223,7 +223,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### nakasyou
 #### 名前情報
 - `ja`: nakasyou
 - `en`: nakasyou
@@ -242,7 +242,7 @@ en:
 I'm nakasyou. second year of junior high school
 ```
 
-### {member_data['names']['ja']}
+### ハシシ
 #### 名前情報
 - `ja`: ハシシ
 - `en`: Hashishi
@@ -260,7 +260,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### MD5
 #### 名前情報
 - `ja`: MD5
 - `en`: MD5
@@ -278,7 +278,7 @@ en:
 I enjoy dynamic analysis of malware (including jokes) and developing web applications.
 ```
 
-### {member_data['names']['ja']}
+### Def4Root
 #### 名前情報
 - `ja`: Def4Root
 - `en`: Def4Root
@@ -296,7 +296,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### Rootkit
 #### 名前情報
 - `ja`: Rootkit
 - `en`: Rootkit
@@ -315,7 +315,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### 素敵
 #### 名前情報
 - `ja`: 素敵
 - `en`: Suteki
@@ -333,7 +333,7 @@ en:
 None
 ```
 
-### {member_data['names']['ja']}
+### fumi
 #### 名前情報
 - `ja`: fumi
 - `en`: fumi
