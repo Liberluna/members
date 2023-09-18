@@ -1,5 +1,5 @@
 import yaml, glob, os, json, shutil
-from .generate_markdown import generate_markdown
+from generate_markdown import generate_markdown
 
 members = []
 for member_yaml_path in glob.glob('./members/*.yaml'):
