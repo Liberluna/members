@@ -27,6 +27,7 @@ with open('dist/members.ts', 'w') as file:
 
 python_code = f"""
 # For Raw JSON
+null = None
 true = True
 false = False
 
