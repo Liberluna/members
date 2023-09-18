@@ -47,6 +47,27 @@ members = [
     },
     {
         "names": {
+            "ja": "ActiveTK",
+            "en": "ActiveTK"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "activetk",
+            "x": "activetk5929",
+            "matrix": "@psnt00:matrix.org"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/activetk.png"
+    },
+    {
+        "names": {
             "ja": "サミット",
             "en": "sum1t"
         },
