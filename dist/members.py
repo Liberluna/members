@@ -216,15 +216,14 @@ members = [
             "isLeader": false
         },
         "social": {
-            "github": "Def4Root",
-            "x": "Def4Root",
+            "github": "mama1928",
             "matrix": "@rksub:matrix.org"
         },
         "profile": {
             "ja": "None",
             "en": "None"
         },
-        "avatar": "https://github.com/Def4Root.png"
+        "avatar": "https://github.com/mama1928.png"
     },
     {
         "names": {
