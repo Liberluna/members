@@ -6,7 +6,8 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     - en: {member_data['names']['en']}
     #### ロール情報
     - { '' if {member_data['post']['isMember']} else 'サブ' }メンバー
-    """.strip()
+    """
+    result = '\n'.join(map(lambda line: line[3:], result.strip().split('\n')))
     return result + '\n'
 def generate_markdown(data) -> str:
     result: str = ''
