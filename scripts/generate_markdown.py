@@ -18,7 +18,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
         result += '- モデレーター\n'
     
     result += '#### アバター情報\n'
-    result += f'<img src="{member_data['avatar']}" width="64" height="64" />' + '\n'
+    result += '<img src="' + member_data['avatar'] + '"width="64" height="64" />\n'
 
     result += remove_start_by_line(f"""
     #### 自己紹介
