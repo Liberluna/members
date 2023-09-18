@@ -6,7 +6,10 @@
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/Futaba411.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -16,6 +19,9 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [Futaba411](https://github.com/Futaba411)
 
 ### Ame
 #### 名前情報
@@ -24,7 +30,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/EdamAme-x.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -35,6 +44,9 @@ en:
 Bug Hunter
 ```
 
+#### Social
+- GitHub: [EdamAme-x](https://github.com/EdamAme-x)
+
 ### ActiveTK.
 #### 名前情報
 - `ja`: ActiveTK.
@@ -42,7 +54,10 @@ Bug Hunter
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/activetk.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -52,6 +67,9 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [activetk](https://github.com/activetk)
 
 ### サミット
 #### 名前情報
@@ -61,7 +79,10 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
+
+
 <img src=""width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -72,6 +93,8 @@ en:
 IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC, a FlashPaPa CD and a Solid State Survivor record.
 ```
 
+#### Social
+
 ### おもち
 #### 名前情報
 - `ja`: おもち
@@ -79,7 +102,10 @@ IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC,
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -90,6 +116,9 @@ en:
 My name is omochi.An ordinary junior high school student who wants to acquire hacking ability.I am using the icon of \"irasutoya\".
 ```
 
+#### Social
+- GitHub: [hiro1234omochi](https://github.com/hiro1234omochi)
+
 ### ぽち
 #### 名前情報
 - `ja`: ぽち
@@ -99,7 +128,10 @@ My name is omochi.An ordinary junior high school student who wants to acquire ha
 - リーダー
 - モデレーター
 #### アバター情報
+
+
 <img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/pochi.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -114,6 +146,9 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 
 ```
 
+#### Social
+- GitHub: [Pochi-Liberluna](https://github.com/Pochi-Liberluna)
+
 ### 黒子
 #### 名前情報
 - `ja`: 黒子
@@ -121,7 +156,10 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src=""width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -132,6 +170,8 @@ en:
 None
 ```
 
+#### Social
+
 ### スカイラーク
 #### 名前情報
 - `ja`: スカイラーク
@@ -139,7 +179,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/Mambo-q.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -149,6 +192,9 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [Mambo-q](https://github.com/Mambo-q)
 
 ### ぼんず
 #### 名前情報
@@ -158,7 +204,10 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
+
+
 <img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/bonds.jpg"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -169,6 +218,9 @@ en:
 I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we value ties. thank you.
 ```
 
+#### Social
+- GitHub: [bond417](https://github.com/bond417)
+
 ### movenap
 #### 名前情報
 - `ja`: movenap
@@ -176,7 +228,10 @@ I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/movenap.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -187,6 +242,9 @@ en:
 None
 ```
 
+#### Social
+- GitHub: [movenap](https://github.com/movenap)
+
 ### ミゾレ
 #### 名前情報
 - `ja`: ミゾレ
@@ -194,7 +252,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -205,6 +266,8 @@ en:
 None
 ```
 
+#### Social
+
 ### 巧太
 #### 名前情報
 - `ja`: 巧太
@@ -212,7 +275,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/koutamanto.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -222,6 +288,9 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [koutamanto](https://github.com/koutamanto)
 
 ### nakasyou
 #### 名前情報
@@ -231,7 +300,10 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
+
+
 <img src="https://github.com/nakasyou.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -242,6 +314,9 @@ en:
 I'm nakasyou. second year of junior high school
 ```
 
+#### Social
+- GitHub: [nakasyou](https://github.com/nakasyou)
+
 ### ハシシ
 #### 名前情報
 - `ja`: ハシシ
@@ -249,7 +324,10 @@ I'm nakasyou. second year of junior high school
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/ipshtkleegetolb73.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -260,6 +338,8 @@ en:
 None
 ```
 
+#### Social
+
 ### MD5
 #### 名前情報
 - `ja`: MD5
@@ -267,7 +347,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/endermite0314.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -278,6 +361,9 @@ en:
 I enjoy dynamic analysis of malware (including jokes) and developing web applications.
 ```
 
+#### Social
+- GitHub: [endermite0314](https://github.com/endermite0314)
+
 ### Def4Root
 #### 名前情報
 - `ja`: Def4Root
@@ -285,7 +371,10 @@ I enjoy dynamic analysis of malware (including jokes) and developing web applica
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/Def4Root.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -295,6 +384,9 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [Def4Root](https://github.com/Def4Root)
 
 ### Rootkit
 #### 名前情報
@@ -304,7 +396,10 @@ None
 - メンバー
 - モデレーター
 #### アバター情報
+
+
 <img src="https://github.com/mama1928.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -314,6 +409,9 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [mama1928](https://github.com/mama1928)
 
 ### 素敵
 #### 名前情報
@@ -322,7 +420,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src=""width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -333,6 +434,8 @@ en:
 None
 ```
 
+#### Social
+
 ### fumi
 #### 名前情報
 - `ja`: fumi
@@ -340,7 +443,10 @@ None
 #### ロール情報
 - サブメンバー
 #### アバター情報
+
+
 <img src="https://github.com/kisia0916.png"width="64" height="64" />
+
 #### 自己紹介
 ja:
 ```
@@ -350,4 +456,7 @@ en:
 ```
 None
 ```
+
+#### Social
+- GitHub: [kisia0916](https://github.com/kisia0916)
 

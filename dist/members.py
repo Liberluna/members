@@ -218,7 +218,7 @@ members = [
             "isModerator": false,
             "isLeader": false
         },
-        "social": null,
+        "social": {},
         "profile": {
             "ja": "None",
             "en": "None"
@@ -358,7 +358,7 @@ members = [
             "isModerator": false,
             "isLeader": false
         },
-        "social": null,
+        "social": {},
         "profile": {
             "ja": "None",
             "en": "None"
