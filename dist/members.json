@@ -140,5 +140,26 @@
       "en": "I'm nakasyou. second year of junior high school"
     },
     "avatar": "https://github.com/nakasyou.png"
+  },
+  {
+    "names": {
+      "ja": "fumi",
+      "en": "fumi"
+    },
+    "post": {
+      "isMember": false,
+      "isModerator": false,
+      "isLeader": false
+    },
+    "social": {
+      "github": "kisia0916",
+      "x": "kisia0012",
+      "matrix": "@fumi_fumi_0916:matrix.org"
+    },
+    "profile": {
+      "ja": "None",
+      "en": "None"
+    },
+    "avatar": "https://github.com/kisia0916.png"
   }
 ]
