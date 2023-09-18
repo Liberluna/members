@@ -1,7 +1,6 @@
 def remove_start_by_line(string, n: int) -> str:
     return '\n'.join(map(lambda line: line[n:], string.split('\n')))
 def get_one_member_markdown_by_member_data(member_data) -> str:
-    print(member_data, member_data['post']['isMember'])
     new_line = '\n'
     result = ""
     result += "### {0}\n".format(member_data['names']['ja'])
