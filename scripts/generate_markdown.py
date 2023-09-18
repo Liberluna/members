@@ -63,7 +63,7 @@ def generate_markdown(data) -> str:
             members.append(one_member_markdown)
         else:
             submembers.append(one_member_markdown)
-    result += '\n## リーダー\' + 'n'.join(leaders)
+    result += '\n## リーダー' + '\n'.join(leaders)
     result += '\n## モデレーター' + '\n'.join(moderators)
     result += '\n## メンバー' + '\n'.join(members)
     result += '\n## サブメンバー' + '\n'.join(submembers)
