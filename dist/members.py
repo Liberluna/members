@@ -88,6 +88,26 @@ members = [
     },
     {
         "names": {
+            "ja": "スカイラーク",
+            "en": "Skylark"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "Mambo-q",
+            "x": "vje_"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/Mambo-q.png"
+    },
+    {
+        "names": {
             "ja": "ぼんず",
             "en": "Bonds"
         },
