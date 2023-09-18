@@ -11,7 +11,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     result += '- `en`: ' + member_data['names']['en'] + '\n'
 
     result += '#### ロール情報\n'
-    result += f'- { '' if {member_data['post']['isMember']} else 'サブ' }メンバー\n'
+    result += f'- { '' if member_data['post']['isMember'] else 'サブ' }メンバー\n'
     if member_data['post']['isLeader']:
         result += '- リーダー\n'
     if member_data['post']['isModerator']:
