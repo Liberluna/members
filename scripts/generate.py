@@ -1,4 +1,5 @@
 import yaml, glob, os, json, shutil
+from .generate_markdown import generate_markdown
 
 members = []
 for member_yaml_path in glob.glob('./members/*.yaml'):
@@ -36,3 +37,5 @@ members = {json.dumps(members, indent=4, ensure_ascii=False)}
 """.strip()
 with open('dist/members.py', 'w') as file:
     file.write(python_code)
+with open('dist/members.md', 'w') as file:
+    file.write(generate_markdown(members))
