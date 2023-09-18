@@ -7,6 +7,26 @@ false = False
 members = [
     {
         "names": {
+            "ja": "双葉",
+            "en": "Futaba"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "Futaba411",
+            "matrix": "@futaba8:matrix.org"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/Futaba411.png"
+    },
+    {
+        "names": {
             "ja": "Ame",
             "en": "Amex"
         },
