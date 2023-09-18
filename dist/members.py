@@ -249,6 +249,27 @@ members = [
     },
     {
         "names": {
+            "ja": "Def4Root",
+            "en": "Def4Root"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "Def4Root",
+            "x": "Def4Root",
+            "matrix": "@/bonds/:matrix.org"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/Def4Root.png"
+    },
+    {
+        "names": {
             "ja": "Rootkit",
             "en": "Rootkit"
         },
