@@ -48,6 +48,23 @@ members = [
     },
     {
         "names": {
+            "ja": "ミゾレ",
+            "en": "Mizore"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": null,
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg"
+    },
+    {
+        "names": {
             "ja": "nakasyou",
             "en": "nakasyou"
         },
