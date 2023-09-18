@@ -207,6 +207,27 @@ members = [
     },
     {
         "names": {
+            "ja": "MD5",
+            "en": "MD5"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "endermite0314",
+            "x": "lockeddoor0314",
+            "matrix": "@endermite0314:matrix.org"
+        },
+        "profile": {
+            "ja": "マルウェア(ジョーク含む)の動的解析や、Webアプリケーションの開発が趣味です。",
+            "en": "I enjoy dynamic analysis of malware (including jokes) and developing web applications."
+        },
+        "avatar": "https://github.com/endermite0314.png"
+    },
+    {
+        "names": {
             "ja": "Rootkit",
             "en": "Rootkit"
         },
