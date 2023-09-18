@@ -5,7 +5,7 @@ post:
   isMember: false
   isModerator: false
   isLeader: false
-social:
+social: {}
 profile:
   ja: None
   en: None
