@@ -1,5 +1,6 @@
 def get_one_member_markdown_by_member_data(member_data) -> str:
     print(member_data, member_data['post']['isMember'])
+    new_line = '\n'
     result = f"""
     ### {member_data['names']['ja']}
     #### 名前情報
@@ -7,7 +8,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     - `en`: {member_data['names']['en']}
     #### ロール情報
     - { '' if {member_data['post']['isMember']} else 'サブ' }メンバー
-    { '- リーダー\n' if member_data['post']['isLeader'] }{ '- モデレーター\n' if member_data['post']['isModerator'] }
+    { '- リーダー' + new_line if member_data['post']['isLeader'] }{ '- モデレーター' + new_line if member_data['post']['isModerator'] }
     #### アバター情報
     
     <img src="{member_data['avatar']}" width="64" height="64" />
