@@ -4,7 +4,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     print(member_data, member_data['post']['isMember'])
     new_line = '\n'
     result = ""
-    result += "### {member_data['names']['ja']}\n"
+    result += "### {0}\n".format(member_data['names']['ja'])
     
     result += '#### 名前情報\n'
     result += '- `ja`: ' + member_data['names']['ja'] + '\n'
