@@ -168,6 +168,27 @@ members = [
     },
     {
         "names": {
+            "ja": "Rootkit",
+            "en": "Rootkit"
+        },
+        "post": {
+            "isMember": true,
+            "isModerator": true,
+            "isLeader": false
+        },
+        "social": {
+            "github": "Def4Root",
+            "x": "Def4Root",
+            "matrix": "@rksub:matrix.org"
+        },
+        "profile": {
+            "ja": "None",
+            "en": "None"
+        },
+        "avatar": "https://github.com/Def4Root.png"
+    },
+    {
+        "names": {
             "ja": "fumi",
             "en": "fumi"
         },
