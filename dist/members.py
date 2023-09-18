@@ -1,4 +1,5 @@
 # For Raw JSON
+null = None
 true = True
 false = False
 
