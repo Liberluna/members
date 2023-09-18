@@ -18,7 +18,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
         result += '- モデレーター\n'
     
     result += '#### アバター情報\n'
-    result += '<img src="' + member_data['avatar'] + '"width="64" height="64" />\n'
+    result += '\n\n<img src="' + member_data['avatar'] + '"width="64" height="64" />\n\n'
 
     result += remove_start_by_line(f"""
     #### 自己紹介
@@ -31,6 +31,12 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     { member_data['profile']['en'] }
     ```
     """[1:-1], 4)
+    result += '\n'
+
+    result += '#### Social\n'
+    if 'github' in member_data['social']:
+        result += f'- GitHub: [{member_data['social']['github']}](https://github.com/{member_data['social']['github']}\n'
+    
     return result + '\n'
 def generate_markdown(data) -> str:
     result: str = ''
