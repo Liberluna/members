@@ -6,6 +6,26 @@ false = False
 members = [
     {
         "names": {
+            "ja": "Ame",
+            "en": "Amex"
+        },
+        "post": {
+            "isMember": false,
+            "isModerator": false,
+            "isLeader": false
+        },
+        "social": {
+            "github": "EdamAme-x",
+            "matrix": "amedx:matrix.org"
+        },
+        "profile": {
+            "ja": "Bug Hunter",
+            "en": "Bug Hunter"
+        },
+        "avatar": "https://github.com/EdamAme-x.png"
+    },
+    {
+        "names": {
             "ja": "ぽち",
             "en": "pochi"
         },
