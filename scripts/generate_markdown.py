@@ -10,7 +10,7 @@ def get_one_member_markdown_by_member_data(member_data) -> str:
     { '- リーダー\n' if member_data['post']['isLeader'] }{ '- モデレーター\n' if member_data['post']['isModerator'] }
     #### アバター情報
     
-    <img src=\"{member_data['avatar']}\" width="64" height="64" />
+    <img src="{member_data['avatar']}" width="64" height="64" />
 
     #### 自己紹介
     ja:
