@@ -1,7 +1,8 @@
 # Liberluna Members Markdown ver.
 ⚠️注意 このファイルは自動的に生成されるので、編集しないでください。情報を訂正したい場合は、[members](../members)を編集してください。
 
-## リーダー### ぽち
+## リーダー
+### ぽち
 #### 名前情報
 - `ja`: ぽち
 - `en`: pochi
@@ -34,7 +35,8 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 - X(Twitter): [@Pochi_Liberluna](https://x.com/Pochi_Liberluna)
 
 
-## モデレーター### サミット
+## モデレーター
+### サミット
 #### 名前情報
 - `ja`: サミット
 - `en`: sum1t
@@ -145,7 +147,9 @@ None
 
 
 ## メンバー
-## サブメンバー### 双葉
+
+## サブメンバー
+### 双葉
 #### 名前情報
 - `ja`: 双葉
 - `en`: Futaba
