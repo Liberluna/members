@@ -1,5 +1,5 @@
 # Liberluna Members Markdown ver.
-### 双葉
+⚠️注意 このファイルは自動的に生成されるので、編集しないでください。情報を訂正したい場合は、[members](../members)を編集してください。### 双葉
 #### 名前情報
 - `ja`: 双葉
 - `en`: Futaba
@@ -8,7 +8,7 @@
 #### アバター情報
 
 
-<img src="https://github.com/Futaba411.png"width="64" height="64" />
+<img src="https://github.com/Futaba411.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -21,6 +21,7 @@ None
 ```
 
 #### Social
+- Matrix: [@futaba8:matrix.org](https://matrix.to/#/@futaba8:matrix.org)
 - GitHub: [Futaba411](https://github.com/Futaba411)
 
 ### Ame
@@ -32,7 +33,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/EdamAme-x.png"width="64" height="64" />
+<img src="https://github.com/EdamAme-x.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -45,6 +46,7 @@ Bug Hunter
 ```
 
 #### Social
+- Matrix: [amedx:matrix.org](https://matrix.to/#/amedx:matrix.org)
 - GitHub: [EdamAme-x](https://github.com/EdamAme-x)
 
 ### ActiveTK.
@@ -56,7 +58,7 @@ Bug Hunter
 #### アバター情報
 
 
-<img src="https://github.com/activetk.png"width="64" height="64" />
+<img src="https://github.com/activetk.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -69,7 +71,9 @@ None
 ```
 
 #### Social
+- Matrix: [@psnt00:matrix.org](https://matrix.to/#/@psnt00:matrix.org)
 - GitHub: [activetk](https://github.com/activetk)
+- X(Twitter): [@activetk5929](https://x.com/activetk5929)
 
 ### サミット
 #### 名前情報
@@ -81,7 +85,7 @@ None
 #### アバター情報
 
 
-<img src=""width="64" height="64" />
+<img src="" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -94,6 +98,7 @@ IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC,
 ```
 
 #### Social
+- Matrix: [@sum1t:matrix.org](https://matrix.to/#/@sum1t:matrix.org)
 
 ### おもち
 #### 名前情報
@@ -104,7 +109,7 @@ IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC,
 #### アバター情報
 
 
-<img src="https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true"width="64" height="64" />
+<img src="https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -117,7 +122,9 @@ My name is omochi.An ordinary junior high school student who wants to acquire ha
 ```
 
 #### Social
+- Matrix: [@hiro_omochi1234:matrix.org](https://matrix.to/#/@hiro_omochi1234:matrix.org)
 - GitHub: [hiro1234omochi](https://github.com/hiro1234omochi)
+- X(Twitter): [@hiro_omochi1234](https://x.com/hiro_omochi1234)
 
 ### ぽち
 #### 名前情報
@@ -130,7 +137,7 @@ My name is omochi.An ordinary junior high school student who wants to acquire ha
 #### アバター情報
 
 
-<img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/pochi.png"width="64" height="64" />
+<img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/pochi.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -147,7 +154,9 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 ```
 
 #### Social
+- Matrix: [@pochihacker:matrix.org](https://matrix.to/#/@pochihacker:matrix.org)
 - GitHub: [Pochi-Liberluna](https://github.com/Pochi-Liberluna)
+- X(Twitter): [@Pochi_Liberluna](https://x.com/Pochi_Liberluna)
 
 ### 黒子
 #### 名前情報
@@ -158,7 +167,7 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 #### アバター情報
 
 
-<img src=""width="64" height="64" />
+<img src="" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -171,6 +180,7 @@ None
 ```
 
 #### Social
+- Matrix: [@kurokopi:matrix.org](https://matrix.to/#/@kurokopi:matrix.org)
 
 ### スカイラーク
 #### 名前情報
@@ -181,7 +191,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/Mambo-q.png"width="64" height="64" />
+<img src="https://github.com/Mambo-q.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -195,6 +205,7 @@ None
 
 #### Social
 - GitHub: [Mambo-q](https://github.com/Mambo-q)
+- X(Twitter): [@vje_](https://x.com/vje_)
 
 ### ぼんず
 #### 名前情報
@@ -206,7 +217,7 @@ None
 #### アバター情報
 
 
-<img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/bonds.jpg"width="64" height="64" />
+<img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/bonds.jpg" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -219,7 +230,9 @@ I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we
 ```
 
 #### Social
+- Matrix: [@/bonds/:matrix.org](https://matrix.to/#/@/bonds/:matrix.org)
 - GitHub: [bond417](https://github.com/bond417)
+- X(Twitter): [@Bonds_Hacker](https://x.com/Bonds_Hacker)
 
 ### movenap
 #### 名前情報
@@ -230,7 +243,7 @@ I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we
 #### アバター情報
 
 
-<img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/movenap.png"width="64" height="64" />
+<img src="https://raw.githubusercontent.com/Liberluna/page/main/assets/member-icons/movenap.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -243,7 +256,9 @@ None
 ```
 
 #### Social
+- Matrix: [@move_nap:matrix.org](https://matrix.to/#/@move_nap:matrix.org)
 - GitHub: [movenap](https://github.com/movenap)
+- Scratch: [move028](https://scratch.mit.edu/users/move028)
 
 ### ミゾレ
 #### 名前情報
@@ -254,7 +269,7 @@ None
 #### アバター情報
 
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg"width="64" height="64" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@8.8.0/icons/github.svg" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -277,7 +292,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/koutamanto.png"width="64" height="64" />
+<img src="https://github.com/koutamanto.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -302,7 +317,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/nakasyou.png"width="64" height="64" />
+<img src="https://github.com/nakasyou.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -315,7 +330,10 @@ I'm nakasyou. second year of junior high school
 ```
 
 #### Social
+- Matrix: [@nakasyou:matrix.org](https://matrix.to/#/@nakasyou:matrix.org)
 - GitHub: [nakasyou](https://github.com/nakasyou)
+- X(Twitter): [@nakasyou0](https://x.com/nakasyou0)
+- Scratch: [nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 
 ### ハシシ
 #### 名前情報
@@ -326,7 +344,7 @@ I'm nakasyou. second year of junior high school
 #### アバター情報
 
 
-<img src="https://github.com/ipshtkleegetolb73.png"width="64" height="64" />
+<img src="https://github.com/ipshtkleegetolb73.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -339,6 +357,7 @@ None
 ```
 
 #### Social
+- X(Twitter): [@ipshtkleegetolb73](https://x.com/ipshtkleegetolb73)
 
 ### MD5
 #### 名前情報
@@ -349,7 +368,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/endermite0314.png"width="64" height="64" />
+<img src="https://github.com/endermite0314.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -362,7 +381,9 @@ I enjoy dynamic analysis of malware (including jokes) and developing web applica
 ```
 
 #### Social
+- Matrix: [@endermite0314:matrix.org](https://matrix.to/#/@endermite0314:matrix.org)
 - GitHub: [endermite0314](https://github.com/endermite0314)
+- X(Twitter): [@lockeddoor0314](https://x.com/lockeddoor0314)
 
 ### Def4Root
 #### 名前情報
@@ -373,7 +394,7 @@ I enjoy dynamic analysis of malware (including jokes) and developing web applica
 #### アバター情報
 
 
-<img src="https://github.com/Def4Root.png"width="64" height="64" />
+<img src="https://github.com/Def4Root.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -386,7 +407,9 @@ None
 ```
 
 #### Social
+- Matrix: [@/bonds/:matrix.org](https://matrix.to/#/@/bonds/:matrix.org)
 - GitHub: [Def4Root](https://github.com/Def4Root)
+- X(Twitter): [@Def4Root](https://x.com/Def4Root)
 
 ### Rootkit
 #### 名前情報
@@ -398,7 +421,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/mama1928.png"width="64" height="64" />
+<img src="https://github.com/mama1928.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -411,6 +434,7 @@ None
 ```
 
 #### Social
+- Matrix: [@rksub:matrix.org](https://matrix.to/#/@rksub:matrix.org)
 - GitHub: [mama1928](https://github.com/mama1928)
 
 ### 素敵
@@ -422,7 +446,7 @@ None
 #### アバター情報
 
 
-<img src=""width="64" height="64" />
+<img src="" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -445,7 +469,7 @@ None
 #### アバター情報
 
 
-<img src="https://github.com/kisia0916.png"width="64" height="64" />
+<img src="https://github.com/kisia0916.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -458,5 +482,7 @@ None
 ```
 
 #### Social
+- Matrix: [@fumi_fumi_0916:matrix.org](https://matrix.to/#/@fumi_fumi_0916:matrix.org)
 - GitHub: [kisia0916](https://github.com/kisia0916)
+- X(Twitter): [@kisia0012](https://x.com/kisia0012)
 
