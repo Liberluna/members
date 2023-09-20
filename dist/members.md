@@ -109,7 +109,7 @@ ja:
 ```
 en:
 ```
-I'm nakasyou. second year of junior high school
+I'm nakasyou. I'm second year of junior high school.
 ```
 
 #### Social

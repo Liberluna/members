@@ -263,7 +263,7 @@ members = [
         },
         "profile": {
             "ja": "13 y/o 中2男子。",
-            "en": "I'm nakasyou. second year of junior high school"
+            "en": "I'm nakasyou. I'm second year of junior high school."
         },
         "avatar": "https://github.com/nakasyou.png"
     },
