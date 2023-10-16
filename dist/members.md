@@ -36,32 +36,6 @@ more information, please see 'SHOW PROFILE' below.I love Yurry Canon and Tsukuyo
 
 
 ## モデレーター
-### サミット
-#### 名前情報
-- `ja`: サミット
-- `en`: sum1t
-#### ロール情報
-- メンバー
-- モデレーター
-#### アバター情報
- 
-
-<img src="" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-できることなら僕に、Automatic-h5005,ハイユニ5-5050,メカニカMECと、FlashPaPaのCDとソリッドステイトサヴァイヴァーのレコードをお恵みください。
-```
-en:
-```
-IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC, a FlashPaPa CD and a Solid State Survivor record.
-```
-
-#### Social
-- Matrix: [@sum1t:matrix.org](https://matrix.to/#/@sum1t:matrix.org)
-
-
 ### ぼんず
 #### 名前情報
 - `ja`: ぼんず
@@ -88,6 +62,33 @@ I'm Bonds.Creator of Liberluna. I'm doing a lieutenant. As the name suggests, we
 - Matrix: [@/bonds/:matrix.org](https://matrix.to/#/@/bonds/:matrix.org)
 - GitHub: [bond417](https://github.com/bond417)
 - X(Twitter): [@Bonds_Hacker](https://x.com/Bonds_Hacker)
+
+
+### Rootkit
+#### 名前情報
+- `ja`: Rootkit
+- `en`: Rootkit
+#### ロール情報
+- メンバー
+- モデレーター
+#### アバター情報
+https://github.com/mama1928.png 
+
+<img src="https://github.com/mama1928.png" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+None
+```
+en:
+```
+None
+```
+
+#### Social
+- Matrix: [@rksub:matrix.org](https://matrix.to/#/@rksub:matrix.org)
+- GitHub: [mama1928](https://github.com/mama1928)
 
 
 ### nakasyou
@@ -119,148 +120,13 @@ I'm nakasyou. I'm second year of junior high school.
 - Scratch: [nakasyou1103](https://scratch.mit.edu/users/nakasyou1103)
 
 
-### Rootkit
+### サミット
 #### 名前情報
-- `ja`: Rootkit
-- `en`: Rootkit
+- `ja`: サミット
+- `en`: sum1t
 #### ロール情報
 - メンバー
 - モデレーター
-#### アバター情報
-https://github.com/mama1928.png 
-
-<img src="https://github.com/mama1928.png" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-None
-```
-en:
-```
-None
-```
-
-#### Social
-- Matrix: [@rksub:matrix.org](https://matrix.to/#/@rksub:matrix.org)
-- GitHub: [mama1928](https://github.com/mama1928)
-
-
-## メンバー
-
-## サブメンバー
-### 双葉
-#### 名前情報
-- `ja`: 双葉
-- `en`: Futaba
-#### ロール情報
-- サブメンバー
-#### アバター情報
-https://github.com/Futaba411.png 
-
-<img src="https://github.com/Futaba411.png" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-None
-```
-en:
-```
-None
-```
-
-#### Social
-- Matrix: [@futaba8:matrix.org](https://matrix.to/#/@futaba8:matrix.org)
-- GitHub: [Futaba411](https://github.com/Futaba411)
-
-
-### Ame
-#### 名前情報
-- `ja`: Ame
-- `en`: Amex
-#### ロール情報
-- サブメンバー
-#### アバター情報
-https://github.com/EdamAme-x.png 
-
-<img src="https://github.com/EdamAme-x.png" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-Bug Hunter
-```
-en:
-```
-Bug Hunter
-```
-
-#### Social
-- Matrix: [amedx:matrix.org](https://matrix.to/#/amedx:matrix.org)
-- GitHub: [EdamAme-x](https://github.com/EdamAme-x)
-
-
-### ActiveTK.
-#### 名前情報
-- `ja`: ActiveTK.
-- `en`: ActiveTK.
-#### ロール情報
-- サブメンバー
-#### アバター情報
-https://github.com/activetk.png 
-
-<img src="https://github.com/activetk.png" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-None
-```
-en:
-```
-None
-```
-
-#### Social
-- Matrix: [@psnt00:matrix.org](https://matrix.to/#/@psnt00:matrix.org)
-- GitHub: [activetk](https://github.com/activetk)
-- X(Twitter): [@activetk5929](https://x.com/activetk5929)
-
-
-### おもち
-#### 名前情報
-- `ja`: おもち
-- `en`: omochi
-#### ロール情報
-- サブメンバー
-#### アバター情報
-https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true 
-
-<img src="https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-おもちです。ハッキングの能力を身に着けたい平凡な(?)中学生です! イラストや様のアイコンを使わせていただいてます。
-```
-en:
-```
-My name is omochi.An ordinary junior high school student who wants to acquire hacking ability.I am using the icon of \"irasutoya\".
-```
-
-#### Social
-- Matrix: [@hiro_omochi1234:matrix.org](https://matrix.to/#/@hiro_omochi1234:matrix.org)
-- GitHub: [hiro1234omochi](https://github.com/hiro1234omochi)
-- X(Twitter): [@hiro_omochi1234](https://x.com/hiro_omochi1234)
-
-
-### 黒子
-#### 名前情報
-- `ja`: 黒子
-- `en`: Kuroko
-#### ロール情報
-- サブメンバー
 #### アバター情報
  
 
@@ -269,17 +135,20 @@ My name is omochi.An ordinary junior high school student who wants to acquire ha
 #### 自己紹介
 ja:
 ```
-None
+できることなら僕に、Automatic-h5005,ハイユニ5-5050,メカニカMECと、FlashPaPaのCDとソリッドステイトサヴァイヴァーのレコードをお恵みください。
 ```
 en:
 ```
-None
+IIf you can, please bless me with Automatic-h5005, Hi-Uni 5-5050, Mechanica MEC, a FlashPaPa CD and a Solid State Survivor record.
 ```
 
 #### Social
-- Matrix: [@kurokopi:matrix.org](https://matrix.to/#/@kurokopi:matrix.org)
+- Matrix: [@sum1t:matrix.org](https://matrix.to/#/@sum1t:matrix.org)
 
 
+## メンバー
+
+## サブメンバー
 ### スカイラーク
 #### 名前情報
 - `ja`: スカイラーク
@@ -304,6 +173,58 @@ None
 #### Social
 - GitHub: [mbo5](https://github.com/mbo5)
 - X(Twitter): [@vje_](https://x.com/vje_)
+
+
+### 巧太
+#### 名前情報
+- `ja`: 巧太
+- `en`: Kouta
+#### ロール情報
+- サブメンバー
+#### アバター情報
+https://github.com/koutamanto.png 
+
+<img src="https://github.com/koutamanto.png" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+None
+```
+en:
+```
+None
+```
+
+#### Social
+- GitHub: [koutamanto](https://github.com/koutamanto)
+
+
+### Fentanyl410
+#### 名前情報
+- `ja`: Fentanyl410
+- `en`: Fentanyl410
+#### ロール情報
+- サブメンバー
+#### アバター情報
+https://github.com/endermite0314.png 
+
+<img src="https://github.com/endermite0314.png" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+マルウェア(ジョーク含む)の動的解析や、Webアプリケーションの開発が趣味です。
+```
+en:
+```
+I enjoy dynamic analysis of malware (including jokes) and developing web applications.
+```
+
+#### Social
+- Matrix: [@endermite0314:matrix.org](https://matrix.to/#/@endermite0314:matrix.org)
+- GitHub: [endermite0314](https://github.com/endermite0314)
+- X(Twitter): [@lockeddoor0314](https://x.com/lockeddoor0314)
 
 
 ### movenap
@@ -357,31 +278,6 @@ None
 #### Social
 
 
-### 巧太
-#### 名前情報
-- `ja`: 巧太
-- `en`: Kouta
-#### ロール情報
-- サブメンバー
-#### アバター情報
-https://github.com/koutamanto.png 
-
-<img src="https://github.com/koutamanto.png" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-None
-```
-en:
-```
-None
-```
-
-#### Social
-- GitHub: [koutamanto](https://github.com/koutamanto)
-
-
 ### ハシシ
 #### 名前情報
 - `ja`: ハシシ
@@ -407,43 +303,16 @@ None
 - X(Twitter): [@ipshtkleegetolb73](https://x.com/ipshtkleegetolb73)
 
 
-### MD5
+### 双葉
 #### 名前情報
-- `ja`: MD5
-- `en`: MD5
+- `ja`: 双葉
+- `en`: Futaba
 #### ロール情報
 - サブメンバー
 #### アバター情報
-https://github.com/endermite0314.png 
+https://github.com/Futaba411.png 
 
-<img src="https://github.com/endermite0314.png" width="64" height="64" />
-
-#### 自己紹介
-ja:
-```
-マルウェア(ジョーク含む)の動的解析や、Webアプリケーションの開発が趣味です。
-```
-en:
-```
-I enjoy dynamic analysis of malware (including jokes) and developing web applications.
-```
-
-#### Social
-- Matrix: [@endermite0314:matrix.org](https://matrix.to/#/@endermite0314:matrix.org)
-- GitHub: [endermite0314](https://github.com/endermite0314)
-- X(Twitter): [@lockeddoor0314](https://x.com/lockeddoor0314)
-
-
-### Def4Root
-#### 名前情報
-- `ja`: Def4Root
-- `en`: Def4Root
-#### ロール情報
-- サブメンバー
-#### アバター情報
-https://github.com/Def4Root.png 
-
-<img src="https://github.com/Def4Root.png" width="64" height="64" />
+<img src="https://github.com/Futaba411.png" width="64" height="64" />
 
 #### 自己紹介
 ja:
@@ -456,9 +325,33 @@ None
 ```
 
 #### Social
-- Matrix: [@/bonds/:matrix.org](https://matrix.to/#/@/bonds/:matrix.org)
-- GitHub: [Def4Root](https://github.com/Def4Root)
-- X(Twitter): [@Def4Root](https://x.com/Def4Root)
+- Matrix: [@futaba8:matrix.org](https://matrix.to/#/@futaba8:matrix.org)
+- GitHub: [Futaba411](https://github.com/Futaba411)
+
+
+### 黒子
+#### 名前情報
+- `ja`: 黒子
+- `en`: Kuroko
+#### ロール情報
+- サブメンバー
+#### アバター情報
+ 
+
+<img src="" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+None
+```
+en:
+```
+None
+```
+
+#### Social
+- Matrix: [@kurokopi:matrix.org](https://matrix.to/#/@kurokopi:matrix.org)
 
 
 ### 素敵
@@ -510,4 +403,111 @@ None
 - Matrix: [@fumi_fumi_0916:matrix.org](https://matrix.to/#/@fumi_fumi_0916:matrix.org)
 - GitHub: [kisia0916](https://github.com/kisia0916)
 - X(Twitter): [@kisia0012](https://x.com/kisia0012)
+
+
+### Def4Root
+#### 名前情報
+- `ja`: Def4Root
+- `en`: Def4Root
+#### ロール情報
+- サブメンバー
+#### アバター情報
+https://github.com/Def4Root.png 
+
+<img src="https://github.com/Def4Root.png" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+None
+```
+en:
+```
+None
+```
+
+#### Social
+- Matrix: [@/bonds/:matrix.org](https://matrix.to/#/@/bonds/:matrix.org)
+- GitHub: [Def4Root](https://github.com/Def4Root)
+- X(Twitter): [@Def4Root](https://x.com/Def4Root)
+
+
+### おもち
+#### 名前情報
+- `ja`: おもち
+- `en`: omochi
+#### ロール情報
+- サブメンバー
+#### アバター情報
+https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true 
+
+<img src="https://github.com/Liberluna/liberluna.github.io/blob/main/assets/avatars/omochi.png?raw=true" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+おもちです。ハッキングの能力を身に着けたい平凡な(?)中学生です! イラストや様のアイコンを使わせていただいてます。
+```
+en:
+```
+My name is omochi.An ordinary junior high school student who wants to acquire hacking ability.I am using the icon of \"irasutoya\".
+```
+
+#### Social
+- Matrix: [@hiro_omochi1234:matrix.org](https://matrix.to/#/@hiro_omochi1234:matrix.org)
+- GitHub: [hiro1234omochi](https://github.com/hiro1234omochi)
+- X(Twitter): [@hiro_omochi1234](https://x.com/hiro_omochi1234)
+
+
+### ActiveTK.
+#### 名前情報
+- `ja`: ActiveTK.
+- `en`: ActiveTK.
+#### ロール情報
+- サブメンバー
+#### アバター情報
+https://github.com/activetk.png 
+
+<img src="https://github.com/activetk.png" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+None
+```
+en:
+```
+None
+```
+
+#### Social
+- Matrix: [@psnt00:matrix.org](https://matrix.to/#/@psnt00:matrix.org)
+- GitHub: [activetk](https://github.com/activetk)
+- X(Twitter): [@activetk5929](https://x.com/activetk5929)
+
+
+### Ame
+#### 名前情報
+- `ja`: Ame
+- `en`: Amex
+#### ロール情報
+- サブメンバー
+#### アバター情報
+https://github.com/EdamAme-x.png 
+
+<img src="https://github.com/EdamAme-x.png" width="64" height="64" />
+
+#### 自己紹介
+ja:
+```
+Bug Hunter
+```
+en:
+```
+Bug Hunter
+```
+
+#### Social
+- Matrix: [amedx:matrix.org](https://matrix.to/#/amedx:matrix.org)
+- GitHub: [EdamAme-x](https://github.com/EdamAme-x)
 
